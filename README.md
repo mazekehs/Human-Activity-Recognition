@@ -1,1 +1,1 @@
-# Human-Behaviour-Recognition
+# Human-Activity-Recognition
